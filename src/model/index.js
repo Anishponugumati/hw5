@@ -1,0 +1,1 @@
+export const activitySerializer = (activity) => activity.activity;
